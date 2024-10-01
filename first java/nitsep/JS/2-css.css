@@ -1,0 +1,39 @@
+.text{
+    font-size: larger;
+    font-weight: bold;
+    background-color: red;
+}
+.red{
+width: 200px;
+height: 200px;
+color: red;
+float: left;
+border-radius: 150px;
+cursor: pointer;
+}
+.yellow{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 200px;
+    border-radius: 150px;
+    cursor: pointer;
+}
+.green{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 200px;
+    border-radius: 150px;
+    cursor: pointer;
+}
+#red-circle{
+    background-color: red;
+}
+#yellow-circle{
+    background-color: yellow;
+}
+#green-circle{
+    background-color: green;
+}
+
